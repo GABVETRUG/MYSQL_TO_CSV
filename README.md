@@ -39,7 +39,7 @@ An example:
 - employee, orders, stock, clients
 
 
-# Testing
+# Testing
 
 Table rows: 48.863.268 
 
