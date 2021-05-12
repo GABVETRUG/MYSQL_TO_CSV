@@ -12,6 +12,14 @@ Features:
 - works with newest versions of MySQL
 
 
+Required libraries:
+
+- mysql.connector
+- time
+- progressbar (you have to search for progressbar2)
+- pathlib
+
+
 What do you need?
 
 - a config file, in order to avoid mispelling at the input stage (preferably in the same python script's directory) 
