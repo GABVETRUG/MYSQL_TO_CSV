@@ -31,9 +31,9 @@ An example:
 
 # config file:
 
-Name: config.txt
-Content: localhost, root, yourpass, yourdb
+- Name: config.txt
+- Content: localhost, root, yourpass, yourdb
 
 # Tabs list
 
-employee, orders, stock, clients
+- employee, orders, stock, clients
