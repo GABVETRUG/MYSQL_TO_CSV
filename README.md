@@ -37,3 +37,12 @@ An example:
 # Tabs list
 
 - employee, orders, stock, clients
+
+
+# Testing
+
+Table rows: 48.863.268 
+
+Table size: 1.06 GB
+
+Export time: 30:70 min
