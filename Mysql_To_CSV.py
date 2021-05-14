@@ -133,7 +133,7 @@ def write_to_csv(tab_time, tab_time_csv, total_time):
 ############                   DEBUG                       #############
 ########################################################################
 
-if __name__ == 'main.py':
+if __name__ == '__main__':
     tabs = user_input()
     print("\nPefect! Now add db_configuration filepath\n")
     config_path = str(input())
